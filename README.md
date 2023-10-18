@@ -1,2 +1,2 @@
-# datatranslator
-The Data Translator is my new portfolio and blog
+# Data Translator
+A place to build strategy for my career development plan.
