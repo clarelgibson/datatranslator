@@ -1,7 +1,5 @@
 ---
 ---
-$link-color: red;
-
 @import "{{ site.theme }}";
 header {
     img {
@@ -14,3 +12,5 @@ header {
       text-align: left;
     }
   }
+
+  $link-color: #ff004f;
